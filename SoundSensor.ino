@@ -1,4 +1,4 @@
-//extra
+//extra >> turns on with one clap, and off with a second clap
 
 
 int mic = 15;
