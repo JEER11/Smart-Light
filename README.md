@@ -59,7 +59,7 @@ Build and flash:
 - If distance > 0 and < 8 cm and not in debounce, the code toggles the current light state and starts a 2 s debounce.
 - Web commands keep the state in sync and immediately update the RGB output.
 
-Built in a 24‑hour hackathon by:
+## Built in a 24‑hour hackathon by:
 - Jennifer Corte
 - Aleanny Burgos
 - Christian Ramirez
